@@ -17,3 +17,7 @@ If the script fails just run it again.
 
 It first collect all the links, then applies to them after collecting.
 
+To execute
+
+`python totaljobsbot.py`
+
